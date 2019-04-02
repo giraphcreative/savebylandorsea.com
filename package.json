@@ -1,5 +1,5 @@
 {
-    "name" : "badger-globe-home-equity",
+    "name" : "project",
     "version" : "1.0.0",
     "devDependencies" : {
         "grunt":                        "latest",
